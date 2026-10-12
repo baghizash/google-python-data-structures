@@ -1,0 +1,27 @@
+{
+  "survival_rate_by_class": {
+    "1": 0.63,
+    "2": 0.473,
+    "3": 0.242
+  },
+  "titanic_rows": 891,
+  "top_states": {
+    "California": 342,
+    "Texas": 104,
+    "Pennsylvania": 100,
+    "Florida": 81,
+    "Arizona": 72
+  },
+  "arizona_readings": 72,
+  "california_mean_aqi": 9.41,
+  "washington_county_pa": 7,
+  "indiana_top_counties": {
+    "Marion": 8,
+    "Allen": 6,
+    "Hendricks": 4,
+    "Vanderburgh": 4,
+    "St. Joseph": 3
+  },
+  "unique_counties": 254,
+  "shared_county_names": 18
+}
